@@ -13,4 +13,4 @@ Currently this questionnaire is not designed for widespread use, however you are
 
 ### Demonstration Image ###
 
-![Demonstration Image](questionnaire_demo_image.png)
+![Demonstration Image](img/questionnaire_demo_image.png)
